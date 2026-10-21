@@ -1,0 +1,3 @@
+# T9: a torpedo can be fired in ALL mode
+GT4500,10,0,10,0
+TORPEDO,ALL

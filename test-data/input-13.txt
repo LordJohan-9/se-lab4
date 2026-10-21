@@ -1,0 +1,3 @@
+# T13: ALL, both stores fail
+GT4500,10,1.0,10,1.0
+TORPEDO,ALL

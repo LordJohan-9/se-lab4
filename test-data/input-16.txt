@@ -1,0 +1,3 @@
+# T16: ALL, both stores empty
+GT4500,0,0,0,0
+TORPEDO,ALL

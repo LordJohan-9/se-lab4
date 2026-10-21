@@ -1,0 +1,3 @@
+# T11: ALL, P fails, S works
+GT4500,10,1.0,10,0
+TORPEDO,ALL

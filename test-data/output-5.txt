@@ -1,0 +1,5 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO
+SUCCESS  # <- TORPEDO
+SUCCESS  # <- TORPEDO (fallback to S)
+FAIL  # <- TORPEDO (both empty)
