@@ -1,0 +1,3 @@
+# T1: a torpedo can be fired in SINGLE mode
+GT4500,10,0,10,0
+TORPEDO,SINGLE  # fires one torpedo

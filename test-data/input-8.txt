@@ -1,0 +1,3 @@
+# T8: SINGLE, both stores empty
+GT4500,0,0,0,0
+TORPEDO,SINGLE

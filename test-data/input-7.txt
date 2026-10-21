@@ -1,0 +1,3 @@
+# T7: SINGLE, failed store means the other is not tried
+GT4500,10,1.0,10,0
+TORPEDO,SINGLE  # P fails, S must not be tried

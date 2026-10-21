@@ -1,0 +1,6 @@
+# T5: SINGLE, next store in line (P) is empty, S fires
+GT4500,1,0,2,0
+TORPEDO,SINGLE  # P fires (P now empty)
+TORPEDO,SINGLE  # S fires
+TORPEDO,SINGLE  # P is next but empty, S fires
+TORPEDO,SINGLE  # both empty

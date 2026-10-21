@@ -1,0 +1,4 @@
+# T3: SINGLE alternates between the stores
+GT4500,10,0,10,1.0
+TORPEDO,SINGLE  # P fires
+TORPEDO,SINGLE  # S fires and fails
